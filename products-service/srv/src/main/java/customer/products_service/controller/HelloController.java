@@ -12,6 +12,6 @@ public class HelloController {
 
     @GetMapping("/test")
     public String test() {
-        return "Test2, CI/CD!";
+        return "Test3, CI/CD!";
     }
 }
